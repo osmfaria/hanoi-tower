@@ -7,7 +7,7 @@ This is the tower of hanoi game repo.
 💭 features:\
 \
 :heavy_check_mark: Choose different levels.\
-:heavy_check_mark: Track amount of moves required to win.\
+:heavy_check_mark: Track amount of moves required to win.
 
 ## 💻 Tech stack
 
