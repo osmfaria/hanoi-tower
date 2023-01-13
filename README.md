@@ -1,6 +1,6 @@
 # Tower of hanoi
 
-This is the very first react frontend that I developed!  It is an food ecommerce!
+This is the tower of hanoi game repo.
 
 > Check the app running [here](https://osmfaria.github.io/hanoi-tower/).
 
